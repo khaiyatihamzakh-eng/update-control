@@ -1,0 +1,1 @@
+ON|https://example.com/update_v2.exe
